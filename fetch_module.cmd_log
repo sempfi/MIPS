@@ -1,0 +1,1 @@
+vhdtdtfi -lang verilog -prj MIPS -o H:/Books/Codes/MIPS/fetch_module.tfi -lib work H:/Books/Codes/MIPS//fetch_module.v -module fetch_module -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

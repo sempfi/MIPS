@@ -1,0 +1,1 @@
+vhdtdtfi -lang verilog -prj MIPS -o H:/Books/Codes/MIPS/sign_extend.tfi -lib work H:/Books/Codes/MIPS//sign_extend.v -module sign_extend -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

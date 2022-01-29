@@ -1,0 +1,1 @@
+vhdtdtfi -lang verilog -prj MIPS -o H:/Books/Codes/MIPS/pc_reg.tfi -lib work H:/Books/Codes/MIPS//pc_reg.v -module pc_reg -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

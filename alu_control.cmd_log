@@ -1,0 +1,1 @@
+vhdtdtfi -lang verilog -prj MIPS -o H:/Books/Codes/MIPS/alu_control.tfi -lib work H:/Books/Codes/MIPS//alu_control.v -module alu_control -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

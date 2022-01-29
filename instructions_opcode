@@ -1,0 +1,26 @@
+R-type Instructions: 
+			 000,000
+
+Memory Instructions:
+	lw: 	 000,100
+	sw: 	 000,101
+	
+Branch Instructions:
+	beq:   000,110
+	bgt:   001,000
+	bge:   001,001
+	blt:   001,010
+	ble:   001,011
+	bne:   001,100
+
+
+Jump Instructions:
+	j:     001,101
+	jal:   001,110
+
+
+Immediate Instructions:
+	addi:  000,111
+	multi: 001,111
+	divi:  010,000
+	slti:  000,001
