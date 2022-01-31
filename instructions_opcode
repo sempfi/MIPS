@@ -1,9 +1,9 @@
 R-type Instructions: 
-		 000,000
+	       000,000
 
 Memory Instructions:
-	lw: 	 000,100
-	sw: 	 000,101
+	lw:    000,100
+	sw:    000,101
 	
 Branch Instructions:
 	beq:   000,110
